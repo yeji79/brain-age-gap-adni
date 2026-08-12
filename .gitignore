@@ -1,0 +1,25 @@
+# ADNI Data Use Agreement: never commit raw or participant-level derived data.
+data/adni_all/
+data/processed/*.parquet
+data/processed/*.csv
+
+# Keep directory placeholders.
+!data/processed/.gitkeep
+
+# Notebook runtime files
+.ipynb_checkpoints/
+__pycache__/
+
+# OS & Environment artifacts
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+desktop.ini
+
+# Environments & IDEs
+venv/
+env/
+.venv/
+.vscode/
+.idea/
