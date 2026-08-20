@@ -135,7 +135,6 @@ brain-age-gap-adni/
 ├── results/
 │   ├── figures/               # Aggregate figures for reporting
 │   └── tables/                # Aggregate result tables for reporting
-├── private/                   # Personal action checklist — ignored by Git
 ├── src/                       # Reusable functions (planned as the project matures)
 ├── LICENSE
 └── README.md

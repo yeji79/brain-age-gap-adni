@@ -144,7 +144,6 @@ brain-age-gap-adni/
 ├── results/
 │   ├── figures/               # 보고용 집단 수준 그림
 │   └── tables/                # 보고용 집단 수준 결과표
-├── private/                   # 개인 실행 체크리스트 — Git 제외
 ├── src/                       # 재사용 함수 (프로젝트 진행에 따라 추가)
 ├── LICENSE
 ├── README.md
