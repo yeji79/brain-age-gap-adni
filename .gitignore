@@ -2,6 +2,10 @@
 data/adni_all/
 data/processed/*.parquet
 data/processed/*.csv
+# Public Markdown documentation is version-controlled. Keep private reference files local.
+docs/*.docx
+docs/mvp_analysis_portfolio_summary_ko.md
+private/
 
 # Keep directory placeholders.
 !data/processed/.gitkeep

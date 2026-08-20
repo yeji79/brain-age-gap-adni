@@ -1,0 +1,190 @@
+feature_code,anatomical_label,train_missing_fraction
+X3rd.Ventricle_combat,3rd ventricle volume harmonized with combat,0.0
+X4th.Ventricle_combat,4th ventricle volume harmonized with combat,0.0
+Brain.Stem_combat,Brainstem volume harmonized with combat,0.0
+BrainSegVol_combat,Segmented brain volume harmonized with combat,0.0
+BrainSegVolNotVentSurf_combat,Surface size of the segmented brain volume excluding ventricles harmonized with combat,0.0
+CC_Anterior_combat,Anterior corpus collosum volume harmonized with combat,0.0
+CC_Central_combat,Central corpus collosum volume harmonized with combat,0.0
+CC_Mid_Anterior_combat,Mid-anterior corpus collosum volume harmonized with combat,0.0
+CC_Mid_Posterior_combat,Mid-posterior corpus collosum volume harmonized with combat,0.0
+CC_Posterior_combat,Posterior corpus collosum volume harmonized with combat,0.0
+CerebralWhiteMatterVol_combat,Total cerebral cortex white matter volume harmonized with combat,0.0
+CortexVol_combat,Total cerebral cortex grey matter volume harmonized with combat,0.0
+CSF_combat,CSF volume harmonized with combat,0.0
+Left.Accumbens.area_combat,Left accumbens volume harmonized with combat,0.0
+Left.Amygdala_combat,Left amygdala volume harmonized with combat,0.0
+Left.Caudate_combat,Left caudate volume harmonized with combat,0.0
+Left.Cerebellum.Cortex_combat,Left cerebellar cortex volume harmonized with combat,0.0
+Left.Cerebellum.White.Matter_combat,Left cerebellar white matter volume harmonized with combat,0.0
+Left.choroid.plexus_combat,Left choroid plexus volume harmonized with combat,0.0
+Left.Hippocampus_combat,Left hippocampus volume harmonized with combat,0.0
+Left.Inf.Lat.Vent_combat,Left inferior lateral ventricle volume harmonized with combat,0.0
+Left.Lateral.Ventricle_combat,Left lateral ventricle volume harmonized with combat,0.0
+Left.Pallidum_combat,Left pallidum volume harmonized with combat,0.0
+Left.Putamen_combat,Left putamen volume harmonized with combat,0.0
+Left.Thalamus.Proper_combat,Left thalamus volume harmonized with combat,0.0
+Left.VentralDC_combat,Left ventral DC volume harmonized with combat,0.0
+lh_bankssts_thickness_combat,Left banks of the superior temporal sulcus thickness harmonized with combat,0.0
+lh_bankssts_volume_combat,Left banks of the superior temporal sulcus grey matter volume harmonized with combat,0.0
+lh_caudalanteriorcingulate_thickness_combat,Left caudal anterior cingulate thickness harmonized with combat,0.0
+lh_caudalanteriorcingulate_volume_combat,Left caudal anterior cingulate grey matter volume harmonized with combat,0.0
+lh_caudalmiddlefrontal_thickness_combat,Left caudal middle frontal gyri thickness harmonized with combat,0.0
+lh_caudalmiddlefrontal_volume_combat,Left caudal middle frontal gyri grey matter volume harmonized with combat,0.0
+lh_cuneus_thickness_combat,Left cuneus thickness harmonized with combat,0.0
+lh_cuneus_volume_combat,Left cuneus grey matter volume harmonized with combat,0.0
+lh_entorhinal_thickness_combat,Left entorhinal cortex thickness harmonized with combat,0.0
+lh_entorhinal_volume_combat,Left entorhinal cortex grey matter volume harmonized with combat,0.0
+lh_frontalpole_thickness_combat,Left frontal pole thickness harmonized with combat,0.0
+lh_frontalpole_volume_combat,Left frontal pole grey matter volume harmonized with combat,0.0
+lh_fusiform_thickness_combat,Left fusiform gyri thickness harmonized with combat,0.0
+lh_fusiform_volume_combat,Left fusiform gyri grey matter volume harmonized with combat,0.0
+lh_inferiorparietal_thickness_combat,Left inferior parietal gyri thickness harmonized with combat,0.0
+lh_inferiorparietal_volume_combat,Left inferior parietal gyri grey matter volume harmonized with combat,0.0
+lh_inferiortemporal_thickness_combat,Left inferior temporal gyri thickness harmonized with combat,0.0
+lh_inferiortemporal_volume_combat,Left inferior temporal gyri grey matter volume harmonized with combat,0.0
+lh_insula_thickness_combat,Left insula thickness harmonized with combat,0.0
+lh_insula_volume_combat,Left insula grey matter volume harmonized with combat,0.0
+lh_isthmuscingulate_thickness_combat,Left isthmus cingulate thickness harmonized with combat,0.0
+lh_isthmuscingulate_volume_combat,Left isthmus cingulate grey matter volume harmonized with combat,0.0
+lh_lateraloccipital_thickness_combat,Left lateral occipital gyri thickness harmonized with combat,0.0
+lh_lateraloccipital_volume_combat,Left lateral occipital gyri grey matter volume harmonized with combat,0.0
+lh_lateralorbitofrontal_thickness_combat,Left lateral orbitofrontal gyri thickness harmonized with combat,0.0
+lh_lateralorbitofrontal_volume_combat,Left lateral orbitofrontal gyri grey matter volume harmonized with combat,0.0
+lh_lingual_thickness_combat,Left lingual gyri thickness harmonized with combat,0.0
+lh_lingual_volume_combat,Left lingual gyri grey matter volume harmonized with combat,0.0
+lh_MeanThickness_thickness_combat,Left mean lobar thickness harmonized with combat,0.0
+lh_medialorbitofrontal_thickness_combat,Left medial orbitofrontal thickness harmonized with combat,0.0
+lh_medialorbitofrontal_volume_combat,Left medial orbitofrontal grey matter volume harmonized with combat,0.0
+lh_middletemporal_thickness_combat,Left middle temporal gyri thickness harmonized with combat,0.0
+lh_middletemporal_volume_combat,Left middle temporal gyri grey matter volume harmonized with combat,0.0
+lh_paracentral_thickness_combat,Left paracentral lobule thickness harmonized with combat,0.0
+lh_paracentral_volume_combat,Left paracentral lobule grey matter volume harmonized with combat,0.0
+lh_parahippocampal_thickness_combat,Left parahippocampal gyri thickness harmonized with combat,0.0
+lh_parahippocampal_volume_combat,Left parahippocampal gyri grey matter volume harmonized with combat,0.0
+lh_parsopercularis_thickness_combat,Left pars opercularis thickness harmonized with combat,0.0
+lh_parsopercularis_volume_combat,Left pars opercularis grey matter volume harmonized with combat,0.0
+lh_parsorbitalis_thickness_combat,Left pars orbitalis thickness harmonized with combat,0.0
+lh_parsorbitalis_volume_combat,Left pars orbitalis grey matter volume harmonized with combat,0.0
+lh_parstriangularis_thickness_combat,Left pars triangularis thickness harmonized with combat,0.0
+lh_parstriangularis_volume_combat,Left pars triangularis grey matter volume harmonized with combat,0.0
+lh_pericalcarine_thickness_combat,Left pericalcarine gyri thickness harmonized with combat,0.0
+lh_pericalcarine_volume_combat,Left pericalcarine gyri grey matter volume harmonized with combat,0.0
+lh_postcentral_thickness_combat,Left postcentral gyri thickness harmonized with combat,0.0
+lh_postcentral_volume_combat,Left postcentral gyri grey matter volume harmonized with combat,0.0
+lh_posteriorcingulate_thickness_combat,Left posterior cingulate thickness harmonized with combat,0.0
+lh_posteriorcingulate_volume_combat,Left posterior cingulate grey matter volume harmonized with combat,0.0
+lh_precentral_thickness_combat,Left precentral gyri thickness harmonized with combat,0.0
+lh_precentral_volume_combat,Left precentral gyri grey matter volume harmonized with combat,0.0
+lh_precuneus_thickness_combat,Left precuneus thickness harmonized with combat,0.0
+lh_precuneus_volume_combat,Left precuneus grey matter volume harmonized with combat,0.0
+lh_rostralanteriorcingulate_thickness_combat,Left rostral anterior cingulate thickness harmonized with combat,0.0
+lh_rostralanteriorcingulate_volume_combat,Left rostral anterior cingulate grey matter volume harmonized with combat,0.0
+lh_rostralmiddlefrontal_thickness_combat,Left rostral middle frontal gyri thickness harmonized with combat,0.0
+lh_rostralmiddlefrontal_volume_combat,Left rostral middle frontal gyri grey matter volume harmonized with combat,0.0
+lh_superiorfrontal_thickness_combat,Left superior frontal gyri thickness harmonized with combat,0.0
+lh_superiorfrontal_volume_combat,Left superior frontal gyri grey matter volume harmonized with combat,0.0
+lh_superiorparietal_thickness_combat,Left superior parietal gyri thickness harmonized with combat,0.0
+lh_superiorparietal_volume_combat,Left superior parietal gyri grey matter volume harmonized with combat,0.0
+lh_superiortemporal_thickness_combat,Left superior temporal gyri thickness harmonized with combat,0.0
+lh_superiortemporal_volume_combat,Left superior temporal gyri grey matter volume harmonized with combat,0.0
+lh_supramarginal_thickness_combat,Left supramarginal gyri thickness harmonized with combat,0.0
+lh_supramarginal_volume_combat,Left supramarginal gyri grey matter volume harmonized with combat,0.0
+lh_temporalpole_thickness_combat,Left temporal pole thickness harmonized with combat,0.0
+lh_temporalpole_volume_combat,Left temporal pole grey matter volume harmonized with combat,0.0
+lh_transversetemporal_thickness_combat,Left transverse temporal pole thickness harmonized with combat,0.0
+lh_transversetemporal_volume_combat,Left transverse temporal pole grey matter volume harmonized with combat,0.0
+lhCerebralWhiteMatterVol_combat,Left cerebral cortex white matter volume harmonized with combat,0.0
+lhCortexVol_combat,Left cerebral cortex grey matter volume harmonized with combat,0.0
+MaskVol_combat,Mask volume harmonized with combat,0.0
+Optic.Chiasm_combat,Optic Chiasm volume harmonized with combat,0.0
+rh_bankssts_thickness_combat,Right banks of the superior temporal sulcus thickness harmonized with combat,0.0
+rh_bankssts_volume_combat,Right banks of the superior temporal sulcus grey matter volume harmonized with combat,0.0
+rh_caudalanteriorcingulate_thickness_combat,Right caudal anterior cingulate thickness harmonized with combat,0.0
+rh_caudalanteriorcingulate_volume_combat,Right caudal anterior cingulate grey matter volume harmonized with combat,0.0
+rh_caudalmiddlefrontal_thickness_combat,Right caudal middle frontal gyri thickness harmonized with combat,0.0
+rh_caudalmiddlefrontal_volume_combat,Right caudal middle frontal gyri grey matter volume harmonized with combat,0.0
+rh_cuneus_thickness_combat,Right cuneus thickness harmonized with combat,0.0
+rh_cuneus_volume_combat,Right cuneus grey matter volume harmonized with combat,0.0
+rh_entorhinal_thickness_combat,Right entorhinal cortex thickness harmonized with combat,0.0
+rh_entorhinal_volume_combat,Right entorhinal cortex grey matter volume harmonized with combat,0.0
+rh_frontalpole_thickness_combat,Right frontal pole thickness harmonized with combat,0.0
+rh_frontalpole_volume_combat,Right frontal pole grey matter volume harmonized with combat,0.0
+rh_fusiform_thickness_combat,Right fusiform gyri thickness harmonized with combat,0.0
+rh_fusiform_volume_combat,Right fusiform gyri grey matter volume harmonized with combat,0.0
+rh_inferiorparietal_thickness_combat,Right inferior parietal gyri thickness harmonized with combat,0.0
+rh_inferiorparietal_volume_combat,Right inferior parietal gyri grey matter volume harmonized with combat,0.0
+rh_inferiortemporal_thickness_combat,Right inferior temporal gyri thickness harmonized with combat,0.0
+rh_inferiortemporal_volume_combat,Right inferior temporal gyri grey matter volume harmonized with combat,0.0
+rh_insula_thickness_combat,Right insula thickness harmonized with combat,0.0
+rh_insula_volume_combat,Right insula grey matter volume harmonized with combat,0.0
+rh_isthmuscingulate_thickness_combat,Right isthmus cingulate thickness harmonized with combat,0.0
+rh_isthmuscingulate_volume_combat,Right isthmus cingulate grey matter volume harmonized with combat,0.0
+rh_lateraloccipital_thickness_combat,Right lateral occipital gyri thickness harmonized with combat,0.0
+rh_lateraloccipital_volume_combat,Right lateral occipital gyri grey matter volume harmonized with combat,0.0
+rh_lateralorbitofrontal_thickness_combat,Right lateral orbitofrontal gyri thickness harmonized with combat,0.0
+rh_lateralorbitofrontal_volume_combat,Right lateral orbitofrontal gyri grey matter volume harmonized with combat,0.0
+rh_lingual_thickness_combat,Right lingual gyri thickness harmonized with combat,0.0
+rh_lingual_volume_combat,Right lingual gyri grey matter volume harmonized with combat,0.0
+rh_MeanThickness_thickness_combat,Right mean lobar thickness harmonized with combat,0.0
+rh_medialorbitofrontal_thickness_combat,Right medial orbitofrontal thickness harmonized with combat,0.0
+rh_medialorbitofrontal_volume_combat,Right medial orbitofrontal grey matter volume harmonized with combat,0.0
+rh_middletemporal_thickness_combat,Right middle temporal gyri thickness harmonized with combat,0.0
+rh_middletemporal_volume_combat,Right middle temporal gyri grey matter volume harmonized with combat,0.0
+rh_paracentral_thickness_combat,Right paracentral lobule thickness harmonized with combat,0.0
+rh_paracentral_volume_combat,Right paracentral lobule grey matter volume harmonized with combat,0.0
+rh_parahippocampal_thickness_combat,Right parahippocampal gyri thickness harmonized with combat,0.0
+rh_parahippocampal_volume_combat,Right parahippocampal gyri grey matter volume harmonized with combat,0.0
+rh_parsopercularis_thickness_combat,Right pars opercularis thickness harmonized with combat,0.0
+rh_parsopercularis_volume_combat,Right pars opercularis grey matter volume harmonized with combat,0.0
+rh_parsorbitalis_thickness_combat,Right pars orbitalis thickness harmonized with combat,0.0
+rh_parsorbitalis_volume_combat,Right pars orbitalis grey matter volume harmonized with combat,0.0
+rh_parstriangularis_thickness_combat,Right pars triangularis thickness harmonized with combat,0.0
+rh_parstriangularis_volume_combat,Right pars triangularis grey matter volume harmonized with combat,0.0
+rh_pericalcarine_thickness_combat,Right pericalcarine gyri thickness harmonized with combat,0.0
+rh_pericalcarine_volume_combat,Right pericalcarine gyri grey matter volume harmonized with combat,0.0
+rh_postcentral_thickness_combat,Right postcentral gyri thickness harmonized with combat,0.0
+rh_postcentral_volume_combat,Right postcentral gyri grey matter volume harmonized with combat,0.0
+rh_posteriorcingulate_thickness_combat,Right posterior cingulate thickness harmonized with combat,0.0
+rh_posteriorcingulate_volume_combat,Right posterior cingulate grey matter volume harmonized with combat,0.0
+rh_precentral_thickness_combat,Right precentral gyri thickness harmonized with combat,0.0
+rh_precentral_volume_combat,Right precentral gyri grey matter volume harmonized with combat,0.0
+rh_precuneus_thickness_combat,Right precuneus thickness harmonized with combat,0.0
+rh_precuneus_volume_combat,Right precuneus grey matter volume harmonized with combat,0.0
+rh_rostralanteriorcingulate_thickness_combat,Right rostral anterior cingulate thickness harmonized with combat,0.0
+rh_rostralanteriorcingulate_volume_combat,Right rostral anterior cingulate grey matter volume harmonized with combat,0.0
+rh_rostralmiddlefrontal_thickness_combat,Right rostral middle frontal gyri thickness harmonized with combat,0.0
+rh_rostralmiddlefrontal_volume_combat,Right rostral middle frontal gyri grey matter volume harmonized with combat,0.0
+rh_superiorfrontal_thickness_combat,Right superior frontal gyri thickness harmonized with combat,0.0
+rh_superiorfrontal_volume_combat,Right superior frontal gyri grey matter volume harmonized with combat,0.0
+rh_superiorparietal_thickness_combat,Right superior parietal gyri thickness harmonized with combat,0.0
+rh_superiorparietal_volume_combat,Right superior parietal gyri grey matter volume harmonized with combat,0.0
+rh_superiortemporal_thickness_combat,Right superior temporal gyri thickness harmonized with combat,0.0
+rh_superiortemporal_volume_combat,Right superior temporal gyri grey matter volume harmonized with combat,0.0
+rh_supramarginal_thickness_combat,Right supramarginal gyri thickness harmonized with combat,0.0
+rh_supramarginal_volume_combat,Right supramarginal gyri grey matter volume harmonized with combat,0.0
+rh_temporalpole_thickness_combat,Right temporal pole thickness harmonized with combat,0.0
+rh_temporalpole_volume_combat,Right temporal pole grey matter volume harmonized with combat,0.0
+rh_transversetemporal_thickness_combat,Right transverse temporal pole thickness harmonized with combat,0.0
+rh_transversetemporal_volume_combat,Right transverse temporal pole grey matter volume harmonized with combat,0.0
+rhCerebralWhiteMatterVol_combat,Right cerebral cortex white matter volume harmonized with combat,0.0
+rhCortexVol_combat,Right cerebral cortex grey matter volume harmonized with combat,0.0
+Right.Accumbens.area_combat,Right accumbens volume harmonized with combat,0.0
+Right.Amygdala_combat,Right amygdala volume harmonized with combat,0.0
+Right.Caudate_combat,Right caudate volume harmonized with combat,0.0
+Right.Cerebellum.Cortex_combat,Right cerebellar cortex volume harmonized with combat,0.0
+Right.Cerebellum.White.Matter_combat,Right cerebellar white matter volume harmonized with combat,0.0
+Right.choroid.plexus_combat,Right choroid plexus volume harmonized with combat,0.0
+Right.Hippocampus_combat,Right hippocampus volume harmonized with combat,0.0
+Right.Inf.Lat.Vent_combat,Right inferior lateral ventricle volume harmonized with combat,0.0
+Right.Lateral.Ventricle_combat,Right lateral ventricle volume harmonized with combat,0.0
+Right.Pallidum_combat,Right pallidum volume harmonized with combat,0.0
+Right.Putamen_combat,Right putamen volume harmonized with combat,0.0
+Right.Thalamus.Proper_combat,Right thalamus volume harmonized with combat,0.0
+Right.VentralDC_combat,Right ventral DC volume harmonized with combat,0.0
+SubCortGrayVol_combat,Total volume of the subcortical grey matter harmonized with combat,0.0
+SupraTentorialVol_combat,Total volume of brain (minus the cerebellum) harmonized with combat,0.0
+SupraTentorialVolNotVent_combat,Total volume of brain without ventricles (minus the cerebellum) harmonized with combat,0.0
+SupraTentorialVolNotVentVox_combat,Number of voxels of brain without ventricles (minus the cerebellum) harmonized with combat,0.0
+TotalGrayVol_combat,Total volume of all grey matter (cortical and subcortical) harmonized with combat,0.0
+WM.hypointensities_combat,White matter hypointensities harmonized with combat,0.0

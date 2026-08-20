@@ -1,0 +1,4 @@
+model,cv_mae,best_parameters
+Extra Trees,3.901420113668491,"{'model__min_samples_leaf': 3, 'model__n_estimators': 300}"
+Ridge,3.9887141827391432,{'model__alpha': 100.0}
+Dummy mean age,5.26951386933677,{}
